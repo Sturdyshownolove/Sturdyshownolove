@@ -98,13 +98,6 @@ I am a software developer with a strong foundation in **database programming**, 
 - **Development Environment:** Visual Studio Code, Google Antgiravity,Claude Code
 - **Web Server Technologies:** Apache and URL rewriting.
 
-#### 🎮 Game Systems & Modernization
-
-- Game server architecture and source-code analysis.
-- Legacy code modernization and performance optimization.
-- C++ game systems and cross-platform development.
-- **Current direction:** Exploring modernization paths for legacy game clients and server systems.
-
 </div>
 
 ---
