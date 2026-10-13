@@ -72,7 +72,8 @@ I am a software developer with a strong foundation in **database programming**, 
 | **[Pengus Savings](https://github.com/Sturdyshownolove/pengus)** | Gamified travel budget and savings tracker with milestone celebrations, animated mascot, and dynamic AI Coach calculations. | `React` `TypeScript` `Tailwind CSS` `HTML5 Canvas` |
 | **[Lab Escape](https://github.com/Sturdyshownolove/labescape)** | Cyberpunk chemical protocol puzzle game featuring pair/triplet matching mechanics, timer, and audio effects. | `JavaScript (ES6+)` `HTML5` `CSS3` `Web Audio API` |
 | **[Classifieds CMS Portal](https://github.com/Sturdyshownolove/ADS-Page)** | Full-featured directory and ads portal with custom admin panel, Google AMP support, SEO URL rewriting, and XML sitemaps. | `PHP` `MySQL (PDO)` `Google AMP` `Apache mod_rewrite` |
-| **Game Server Infrastructure** | Game server systems, custom quest scripting, packet handling, and database optimizations. | `C++` `Lua` `Python` `MySQL` |
+| **[Anniversary Scrapbook](https://github.com/Sturdyshownolove/Aniversary-Page)** | Interactive editorial digital memory book template with chronological timelines, ambient music, and 3D card layouts. | `React` `TypeScript` `Tailwind CSS` `Vite` |
+| **[Developer Portfolio](https://github.com/Sturdyshownolove/portfolio)** | Personal developer portfolio website with interactive canvas animations, project filtering, and embedded demo previews. | `HTML5` `CSS3` `JavaScript` `Canvas` |
 
 ---
 
