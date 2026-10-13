@@ -6,7 +6,6 @@
 
   <p>
     <a href="mailto:anilaygun335@gmail.com"><img src="https://img.shields.io/badge/Email-anilaygun335%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square" alt="Status" />
   </p>
 
@@ -89,7 +88,6 @@ I am a software developer with a strong foundation in **database programming**, 
 ### 📬 Get In Touch
 
 - 📧 **Email:** [anilaygun335@gmail.com](mailto:anilaygun335@gmail.com)
-- 💼 **LinkedIn:** [Connect on LinkedIn](https://linkedin.com/in/)
 - 🌐 **Portfolio:** Check out my interactive portfolio projects directly here on GitHub!
 
 <div align="center">
