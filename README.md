@@ -1,11 +1,12 @@
 <div align="center">
 
-  <h1>Hi there, I'm AnÄ±l AygÃ¼n ğŸ‘‹</h1>
+  <h1>Hi there, I'm Anıl Aygün 👋</h1>
   <p><strong>Junior Software Developer & IT Systems Specialist</strong></p>
-  <p>ğŸ“ Ä°zmir, TÃ¼rkiye &nbsp; | &nbsp; ğŸ’¬ Turkish (Native), English (Advanced)</p>
+  <p>📍 İzmir, Turkey &nbsp; | &nbsp; 💬 Turkish (Native), English (Advanced)</p>
 
   <p>
     <a href="mailto:anilaygun335@gmail.com"><img src="https://img.shields.io/badge/Email-anilaygun335%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square" alt="Status" />
   </p>
 
@@ -13,22 +14,22 @@
 
 ---
 
-### ğŸ‘¨â€ğŸ’» About Me
+### 👨‍💻 About Me
 
 I am a software developer with a strong foundation in **database programming**, **backend automation**, and **IT systems infrastructure**. Whether I'm designing asynchronous web scrapers, crafting cross-platform mobile applications, or configuring game servers and Linux/BSD environments, I love understanding how complex systems function from the ground up.
 
-- ğŸ”­ **Currently working on:** Async job tracking bots, React & React Native apps, and custom game server tooling.
-- âš¡ **Background:** Database Programming (Vocational degree) & Computer Programming (Undergraduate studies).
-- ğŸ› ï¸ **Problem Solving:** Comfortable across the entire stackâ€”from high-level React UI and Python async pipelines down to C++/Lua game server logic and hardware-level troubleshooting.
-- ğŸ¯ **Open To:** Junior Software Developer, Full-Stack / Backend Developer, Game Systems & IT Infrastructure roles.
+- 🔭 **Currently working on:** Async job tracking bots, React & React Native apps, and custom game server tooling.
+- ⚡ **Background:** Database Programming (Vocational degree) & Computer Programming (Undergraduate studies).
+- 🛠️ **Problem Solving:** Comfortable across the entire stack — from high-level React UI and Python async pipelines down to C++/Lua game server logic and hardware-level troubleshooting.
+- 🎯 **Open To:** Junior Software Developer, Full-Stack / Backend Developer, Game Systems & IT Infrastructure roles.
 
 ---
 
-### ğŸ› ï¸ Technical Skills
+### 🛠️ Technical Skills
 
 <div align="left">
 
-#### ğŸ’» Programming & Scripting
+#### 💻 Programming & Scripting
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -37,7 +38,7 @@ I am a software developer with a strong foundation in **database programming**, 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### ğŸŒ Web & Mobile Development
+#### 🌐 Web & Mobile Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
@@ -45,14 +46,14 @@ I am a software developer with a strong foundation in **database programming**, 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### ğŸ—„ï¸ Databases & Automation
+#### 🗄️ Databases & Automation
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
-#### ğŸ–¥ï¸ Systems, Infrastructure & Tools
+#### 🖥️ Systems, Infrastructure & Tools
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![BSD / Linux](https://img.shields.io/badge/BSD%20%2F%20Linux-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -63,7 +64,7 @@ I am a software developer with a strong foundation in **database programming**, 
 
 ---
 
-### ğŸš€ Featured Projects
+### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -76,7 +77,7 @@ I am a software developer with a strong foundation in **database programming**, 
 
 ---
 
-### ğŸ“ˆ GitHub Overview
+### 📈 GitHub Overview
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sturdyshownolove&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
@@ -85,12 +86,12 @@ I am a software developer with a strong foundation in **database programming**, 
 
 ---
 
-### ğŸ“¬ Get In Touch
+### 📬 Get In Touch
 
-- ğŸ“§ **Email:** [anilaygun335@gmail.com](mailto:anilaygun335@gmail.com)
-- ğŸŒ **Portfolio:** Check out my interactive portfolio projects directly here on GitHub!
+- 📧 **Email:** [anilaygun335@gmail.com](mailto:anilaygun335@gmail.com)
+- 💼 **LinkedIn:** [Connect on LinkedIn](https://linkedin.com/in/)
+- 🌐 **Portfolio:** Check out my interactive portfolio projects directly here on GitHub!
 
 <div align="center">
-  <sub>Designed & Developed by AnÄ±l AygÃ¼n â€¢ 2026</sub>
+  <sub>Designed & Developed by Anıl Aygün • 2026</sub>
 </div>
-
