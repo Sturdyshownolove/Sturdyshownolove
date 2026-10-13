@@ -80,8 +80,8 @@ I am a software developer with a strong foundation in **database programming**, 
 ### 📈 GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sturdyshownolove&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sturdyshownolove&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sturdyshownolove&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sturdyshownolove&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="150" />
 </div>
 
 ---
